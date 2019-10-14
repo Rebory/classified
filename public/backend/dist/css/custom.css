@@ -1,0 +1,29 @@
+.wrapper.theme-1-active .fixed-sidebar-left .side-nav {
+    background: #004163;
+}
+
+.fixed-sidebar-left .side-nav > li > a {
+    color: #212121;
+    padding: 7px 15px;
+    font-size: 13px !important;
+}
+
+.fixed-sidebar-left .side-nav > li > ul > li a {
+    padding: 7px 15px 7px 51px;
+    display: block;
+    color: #a2a2a2;
+    font-size: 12px;
+    background: #004163;
+    border-bottom: 1px solid #124e6b !important;
+    /* border-top: 1px solid #39607bd9 !important; */
+}
+
+.wrapper.theme-1-active .fixed-sidebar-left .side-nav li a:hover, .wrapper.theme-1-active .fixed-sidebar-left .side-nav li a:focus, .wrapper.theme-1-active .fixed-sidebar-left .side-nav li a:active, .wrapper.theme-3-active .fixed-sidebar-left .side-nav li a:hover, .wrapper.theme-3-active .fixed-sidebar-left .side-nav li a:focus, .wrapper.theme-3-active .fixed-sidebar-left .side-nav li a:active, .wrapper.theme-6-active .fixed-sidebar-left .side-nav li a:hover, .wrapper.theme-6-active .fixed-sidebar-left .side-nav li a:focus, .wrapper.theme-6-active .fixed-sidebar-left .side-nav li a:active {
+    background: rgba(0, 65, 99, 0.65);
+}
+
+
+
+.card-view {
+    font-size: 12px !important;
+}
